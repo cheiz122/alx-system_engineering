@@ -1,2 +1,3 @@
 #!/bin/bash
-ls
+ls -e #!/bin/bash
+ls -la
