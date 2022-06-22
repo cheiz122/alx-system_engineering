@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir /temp/my_first_directory
+>6-first_directory
+j,b
+>f
+
