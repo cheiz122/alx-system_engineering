@@ -1,0 +1,3 @@
+#!/bn/bash
+grep root/etc/passwd
+
